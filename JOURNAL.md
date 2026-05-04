@@ -5,3 +5,5 @@ Today I was really just figuring out what it is I wanted to do. I decided on a c
 
 ## Day 2: Working on the gantry
 Today I am working on the gantry. I have found the pulleys for drive and passive belt movement that I want to use. https://www.mcmaster.com/3684N11/ for the drive (also available https://kb-3d.com/store/motion/214-gates-powergrip-2gt-pulley-16-tooth-5mm-6mm-1634481998632.html) and https://www.mcmaster.com/3693N11/ for passive (also also available here https://kb-3d.com/store/motion/216-gates-powergrip-2gt-idler-6mm-toothed-1634482229216.html)
+
+I also have decided to put the left belt on the bottom and the right belt on the top. I am taking a little bit of inspiration from how they designed the belt system on this page (https://drmrehorst.blogspot.com/2018/08/corexy-mechanism-layout-and-belt.html).
