@@ -22,5 +22,7 @@ I also have decided to put the left belt on the bottom and the right belt on the
 Here is an image of the motor bracket initial draft, it has a brace on the side to try and keep it from flexing under the tension of the belt. I will talk to a mentor from my FRC team to figure out the correct way to do it, but that's what I have for now.
 <img width="200" height="auto" alt="{FB9906E1-2987-41E8-B0CE-2A526DED208E}" src="https://github.com/user-attachments/assets/99b1d635-c656-4bf8-96f0-f34aecbc722d" />
 
+After putting the belts on, I have found the position (above the backet height, the same bracket height will be used so this measurement is fine) for each of the pulleys. The left motor driven belt will be 0.145 inches to the bottom of the belt and the right motor driven belt will be 0.385 inches above the bottom of the belt. The belt is ~0.236 inches making the distance between the belts being a tight 0.004 inches, however, I can most likely increase that if needed. I know from experience from FRC that belts rubbing together very occasionally isn't the end of the world so I won't act like it is.
+
 
 ** Total time spent: 2 hours**
