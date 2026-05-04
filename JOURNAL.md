@@ -20,9 +20,15 @@ Today I am working on the gantry. I have found the pulleys for drive and passive
 I also have decided to put the left belt on the bottom and the right belt on the top. I am taking a little bit of inspiration from how they designed the belt system on this page (https://drmrehorst.blogspot.com/2018/08/corexy-mechanism-layout-and-belt.html).
 
 Here is an image of the motor bracket initial draft, it has a brace on the side to try and keep it from flexing under the tension of the belt. I will talk to a mentor from my FRC team to figure out the correct way to do it, but that's what I have for now.
+
 <img width="200" height="auto" alt="{FB9906E1-2987-41E8-B0CE-2A526DED208E}" src="https://github.com/user-attachments/assets/99b1d635-c656-4bf8-96f0-f34aecbc722d" />
 
 After putting the belts on, I have found the position (above the backet height, the same bracket height will be used so this measurement is fine) for each of the pulleys. The left motor driven belt will be 0.145 inches to the bottom of the belt and the right motor driven belt will be 0.385 inches above the bottom of the belt. The belt is ~0.236 inches making the distance between the belts being a tight 0.004 inches, however, I can most likely increase that if needed. I know from experience from FRC that belts rubbing together very occasionally isn't the end of the world so I won't act like it is.
 
+I talked to one of the people from my FRC team and it turns out they have a fully modeled corexy printer they never got the funding to build, ill be using this for some design inspiration as they have a full belt path and mounting setup, but they are using 1.5 inch exstrusion while my design uses 1 inch.
+
+I did find out that the team has an absurd amount of 1.5 inch extrusion we have no use for, BD Medical that donates our lexan also donates the extrusion from their old assembly line machines. This means if I am willing to use 1.5 inch extrusion, the cost is nothing as it's free from our shop potentially.
+
+I will be modifying the current design to be more cost effective, it does mean probably restarting the overall machine assembly unfortunately. the current cost for all of my extrusion is a little over 165 dollars.
 
 ** Total time spent: 2 hours**
