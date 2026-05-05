@@ -31,4 +31,8 @@ I did find out that the team has an absurd amount of 1.5 inch extrusion we have 
 
 I will be modifying the current design to be more cost effective, it does mean probably restarting the overall machine assembly unfortunately. the current cost for all of my extrusion is a little over 165 dollars.
 
-** Total time spent: 2 hours**
+<img width="1233" height="1016" alt="{F5B72A12-4483-42DD-A2D2-2BB7F389D00C}" src="https://github.com/user-attachments/assets/328542f9-f090-4701-8b00-bfb2edce2f2c" />
+
+I have finished redoing all of the parts (my intent driven sketches were horrible and didnt work so I had to completely redo them) but I did fix a few pain points of the old ones as well as take advantage of the bigger size. There are now 2 fin things for better rigidty, and its all using the "free" aluminum. (this is actually so goated, as that's about 270.24 USD worth of extrusion :P)
+
+** Total time spent: 4.2 hours**
