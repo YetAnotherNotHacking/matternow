@@ -65,4 +65,9 @@ I will have to look more into this tommorow, as it is 12:32 in the morning sadly
 
 Ahove is a closer look at how the bracket is going to fit around the rail carriage and extrusion it is mounted on. I think just turning it all upside down should hopefully work (emphasis on hopefully, I have no idea. I am trying things as I am going on and I hardly have an idea of what I am doing in CAD on top of that.)
 
+Overall product at the end of the day:
+
+<img width="1081" height="1240" alt="{FDB88FC5-DADD-416F-A976-9FD24660C74C}" src="https://github.com/user-attachments/assets/c92e7369-be11-4069-a437-5a7822cafdcf" />
+
+
 ** Total time spent: 7.7 hours**
