@@ -81,4 +81,9 @@ I have moved the gantry to be under the top of the printer like I mentioend that
 <img width="1448" height="346" alt="{9F3301B8-3713-4668-850C-9C2E718D690B}" src="https://github.com/user-attachments/assets/5c3bfbb7-79f8-4262-9817-e4910b829a51" />
 
 I now have these tabs going up over the extrusion, and I will be able to mount the pullies here just fine. This also actually simplifies where I am putting the homing switches so this is actually really good I ended up changing the design in this way.
-** Total time spent: 1.4 hour **
+
+<img width="1394" height="1340" alt="{C5ABF086-B28C-4B3D-B561-7C8FC995DD32}" src="https://github.com/user-attachments/assets/65335fa7-91a6-477f-ab33-51a7778215ea" />
+
+I have finished modeling in the pulleys and how they will mount to the secondary linear rails on the gantry to the overall model. All thats left for the rest of this gantry is the hotend and how the belts attach to it. I already know that I am going to be using a remotely driven hotend to make the print head as light as possible. I am now doing some research to figure out what the best hotend and extrusion setup is for this kind of printer.
+
+** Total time spent: 1.9 hour **
