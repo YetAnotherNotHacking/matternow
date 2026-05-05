@@ -49,5 +49,11 @@ It's been widly difficult to find high quality step files of the rails that I in
 
 <img width="1156" height="951" alt="{E7AA2EA6-1DBF-4406-939D-C603877E7431}" src="https://github.com/user-attachments/assets/14d88a5f-86ec-48a1-bbf8-ff78ce71052d" />
 
+I have finished putting together a rought idea of what the linear rail and extrusion for the hotend rail will look like. I have added it to the main assembly and put some sliding joints on it just to get an idea of how it will move. I will now work on the hotend and figure out how I am gonna make that work. I may take super heavy inspiration from the one the guy from my FRC team gave me, as it's very good. He did make it tool changing so I could simplify it a bit. I may also look into a way to swap it out for a higher speed extruder (my goal for thie project is 500 mm/s with 50000mm/s/s.)
 
-** Total time spent: 4.2 hours**
+Here is an image of the gantry as of now:
+
+<img width="auto" height="500" alt="{DA1D3466-8B2F-492F-AA7D-7130686ADBC7}" src="https://github.com/user-attachments/assets/2214c62e-3340-4f67-9120-63b1e9fa3461" />
+
+
+** Total time spent: 6.8 hours**
