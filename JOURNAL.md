@@ -78,4 +78,7 @@ Overall product at the end of the day:
 
 I have moved the gantry to be under the top of the printer like I mentioend that I was going to do yesterday, and that seems like it might work in this orientation. I have also checked the movement limits and I see that we can have our hotend stick out 2.9 inches from each side of the linear bearing, thats probably more than I need but that just defines the maxiumum clearance I have for any blower fans I want to add for the partend. I also tested and we are 420x420mm on the gantry, I am unsure of how big I can make the z axis with this scale so I will figure that out in the future.
 
-** Total time spent: 1 hour **
+<img width="1448" height="346" alt="{9F3301B8-3713-4668-850C-9C2E718D690B}" src="https://github.com/user-attachments/assets/5c3bfbb7-79f8-4262-9817-e4910b829a51" />
+
+I now have these tabs going up over the extrusion, and I will be able to mount the pullies here just fine. This also actually simplifies where I am putting the homing switches so this is actually really good I ended up changing the design in this way.
+** Total time spent: 1.4 hour **
