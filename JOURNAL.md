@@ -35,4 +35,13 @@ I will be modifying the current design to be more cost effective, it does mean p
 
 I have finished redoing all of the parts (my intent driven sketches were horrible and didnt work so I had to completely redo them) but I did fix a few pain points of the old ones as well as take advantage of the bigger size. There are now 2 fin things for better rigidty, and its all using the "free" aluminum. (this is actually so goated, as that's about 270.24 USD worth of extrusion :P)
 
+The beta (left) belt is about 0.146 above the top plate now (3.70mm) and the alpha (right) belt is about 0.425 inches (10.8mm) above the top plate. I increased the distance between the two belts in my redesign of the motor mount by recessing the stepper motor a bit more than previously.
+
+I have now finished the idler pullers for the other top corners of the printer
+
+<img width="auto" height="500" alt="{ACBB2929-7470-472A-862F-2E54F8FAF183}" src="https://github.com/user-attachments/assets/9823022f-5397-46d3-b42c-dd783b0f007c" />
+<img width="830" height="830" alt="{0ACC5BCA-425C-4C2B-9F94-D24EE917DA79}" src="https://github.com/user-attachments/assets/b0597f91-f359-494d-83f7-c4cb2d24463b" />
+
+I have spent like half an hour looking for what linear rails to use, I landed around the area of HGR 20 Rails at about 500 mm length. This is quite large, but that is the goal with this printer (I plan to make use of it for some FRC parts in the distant future). I was first looking on McMaster and was wondering why everything was 300+ dollars just for the rail, but then I found some from an Australian store for 38 bucks per rail. (https://www.rmaluminium.com.au/product/linear-rail-hgr20-250mm-3000mm-length/). I also see that they sell the relevant linear bearings (https://www.rmcomponents.com.au/products/linear-bearing-hgh20ca) so I plan to get those form them as well.
+
 ** Total time spent: 4.2 hours**
