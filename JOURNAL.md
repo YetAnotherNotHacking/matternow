@@ -55,5 +55,14 @@ Here is an image of the gantry as of now:
 
 <img width="auto" height="500" alt="{DA1D3466-8B2F-492F-AA7D-7130686ADBC7}" src="https://github.com/user-attachments/assets/2214c62e-3340-4f67-9120-63b1e9fa3461" />
 
+Even after lowering the secongary gantry component, I realize the rails still are raising it too high for the current heights of the belts. This will most likely be fixed by moving the rails to the under side of the top extrusions and having the printed adapter reaching back ground. I have gotten the fit pretty good with this gentry, however, I don't have an effective way to route the belts as of right now.
 
-** Total time spent: 6.8 hours**
+<img width="1377" height="304" alt="{8095E5AF-74BC-419A-B4AC-E09D0E560D44}" src="https://github.com/user-attachments/assets/1c2fc043-a875-4e1a-a092-c3d53cc7892c" />
+
+I will have to look more into this tommorow, as it is 12:32 in the morning sadly.
+
+<img width="2880" height="1920" alt="{98583E51-4F03-4561-92FD-94502107FA8C}" src="https://github.com/user-attachments/assets/1f436c99-551a-4e3a-b7d7-d06562dc6138" />
+
+Ahove is a closer look at how the bracket is going to fit around the rail carriage and extrusion it is mounted on. I think just turning it all upside down should hopefully work (emphasis on hopefully, I have no idea. I am trying things as I am going on and I hardly have an idea of what I am doing in CAD on top of that.)
+
+** Total time spent: 7.7 hours**
