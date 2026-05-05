@@ -44,4 +44,10 @@ I have now finished the idler pullers for the other top corners of the printer
 
 I have spent like half an hour looking for what linear rails to use, I landed around the area of HGR 20 Rails at about 500 mm length. This is quite large, but that is the goal with this printer (I plan to make use of it for some FRC parts in the distant future). I was first looking on McMaster and was wondering why everything was 300+ dollars just for the rail, but then I found some from an Australian store for 34 bucks per rail. (https://www.rmcomponents.com.au/products/linear-rail-hgr15-500mm-length?variant=43527262044397). I also see that they sell the relevant linear bearings (https://www.rmcomponents.com.au/products/linear-bearing-hgh20ca) so I plan to get those form them as well.
 
+
+It's been widly difficult to find high quality step files of the rails that I intend to use, so I found one that sort of works that is shorter and just extruded it. I will attach it with 4 screws per rail in the real design, but, i can't model that in cad right now.
+
+<img width="1156" height="951" alt="{E7AA2EA6-1DBF-4406-939D-C603877E7431}" src="https://github.com/user-attachments/assets/14d88a5f-86ec-48a1-bbf8-ff78ce71052d" />
+
+
 ** Total time spent: 4.2 hours**
