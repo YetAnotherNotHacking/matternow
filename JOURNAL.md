@@ -71,3 +71,11 @@ Overall product at the end of the day:
 
 
 ** Total time spent: 7.7 hours**
+
+# May 5: Working more on gantry and starting hotend ideas
+
+<img width="953" height="615" alt="{E8419A7E-8B5A-4533-88D1-CED35462002D}" src="https://github.com/user-attachments/assets/2d7bf96a-ec6c-46c9-94b4-37bf63cdf9c8" />
+
+I have moved the gantry to be under the top of the printer like I mentioend that I was going to do yesterday, and that seems like it might work in this orientation. I have also checked the movement limits and I see that we can have our hotend stick out 2.9 inches from each side of the linear bearing, thats probably more than I need but that just defines the maxiumum clearance I have for any blower fans I want to add for the partend. I also tested and we are 420x420mm on the gantry, I am unsure of how big I can make the z axis with this scale so I will figure that out in the future.
+
+** Total time spent: 1 hour **
