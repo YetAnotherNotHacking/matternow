@@ -94,4 +94,4 @@ I did end up finding a step file for it, and I have been drafting the layout for
 
 I do also have some concerns about the scale of the printer. I know 420x420 is a huge build area, but after putting it on an a tape measure and putting a scale to the project I realize I might have made a little bit of a mistake. I think it will be fine, it will be better for the end goal of being able to manufacter FRC parts better, and the aluminum is free and the rails at this size are still cheap ish, but I def might want to watch my scale more in the future.
 
-** Total time spent: 1.9 hour **
+** Total time spent: 2.6 hour **
