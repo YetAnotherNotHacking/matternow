@@ -104,6 +104,14 @@ I am going to attempt to do the same thing that he did here, I like how the hote
 ** Total time spent: 2.9 hour **
 
 # May 6: Toolhead and extruder design
-Nothing yet...
+I worked on the toolhead geometry and figured out how I need to fit the hotend and partend fans in. I will have more time tommorow to be able to properly cool the heatsink as well. I am going to use 24v 4010 fans (2 of them) for the partend, and another one for cooling the heatsink once I get that side of the toolhead modeled up.
+
+Fan:
+https://store.dremc.com.au/en-us/products/4010-axial-fan-24v-by-dremc?variant=43214340063401
+
+<img width="1316" height="1026" alt="{7CDF38D6-E4DA-4E34-84E7-98FFC61D22CB}" src="https://github.com/user-attachments/assets/7a295c90-f143-4cfb-8c73-593d8d0bd30b" />
+
+the intention is for the 10 mm fans to stick out a bit, they will go in the 5 mm cavities on each side. the hotend will of course go in the middle and be fixed to the currently extruded part (the top of the sketch there). the air will enter, and then be pushed down. I may make a bit of a better guide system for the air, as its just relying on the pressure to leave how I want it to. I am actually quite happy with this design, and am excited to work on it more in the morning. It's 1 AM and I have tests tommorow so that is going to be it for today.
+Here is an image of the sketch of the toolhead I have for now.
 
 ** Total time spent: 0.1 hour **
