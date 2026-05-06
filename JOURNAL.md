@@ -132,4 +132,11 @@ Hmmm.... thats not good:
 
 I'll do the same thing that I did to fix the other gantry rails, the rail will be moved to the bottom and I will have some components go up to attack to the belt system. When doing this, I will take some of that vertical space and move the fans up. I need to stop making assumptions on height, as this just keeps happening. The aluminum extrusion will touch the build plate before the nozzle of the hotend at the moment.
 
+I talked to the guy from our FRC team, and I am going to redo the hotend to be on the side of the extrusion. He explain the issue I would run into doing it on the bottom of the rail, and I realized he was right. The forces from the belts would very quickly just twist the hotend and it would not be printing well at all. I am going to try and design it to be mounted from the side face of that gantry compoenent.
+
+That linear rail will now be mounted like this
+
+<img width="1483" height="493" alt="{1907040D-1474-4672-A3ED-D421A4124846}" src="https://github.com/user-attachments/assets/b3ef674f-42c6-4187-b2c9-bcd8890acbc7" />
+
+
 ** Total time spent: 2.1 hour **
