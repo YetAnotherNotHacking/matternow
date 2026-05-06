@@ -120,4 +120,4 @@ https://store.dremc.com.au/en-us/products/4010-axial-fan-24v-by-dremc?variant=43
 the intention is for the 10 mm fans to stick out a bit, they will go in the 5 mm cavities on each side. the hotend will of course go in the middle and be fixed to the currently extruded part (the top of the sketch there). the air will enter, and then be pushed down. I may make a bit of a better guide system for the air, as its just relying on the pressure to leave how I want it to. I am actually quite happy with this design, and am excited to work on it more in the morning. It's 1 AM and I have tests tommorow so that is going to be it for today.
 Here is an image of the sketch of the toolhead I have for now.
 
-** Total time spent: 0.1 hour **
+** Total time spent: 1.0 hour **
