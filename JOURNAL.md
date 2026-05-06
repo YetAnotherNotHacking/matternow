@@ -101,6 +101,12 @@ I am looking at my freind's mounting methods for a similar nozzle (apparently it
 <img width="923" height="1194" alt="{523A57BB-9B8D-466D-A3CF-094B46F8AD64}" src="https://github.com/user-attachments/assets/74ce4332-2967-458e-b751-46ae7c58dd08" />
 
 I am going to attempt to do the same thing that he did here, I like how the hotend works. I don't want to copy the switchable head system he has, as I don't have a real need. I can swap it out still but I don't need a quick swap system. I believe he did this because he prints TPU a lot for our belts on our robot. I don't really like the cooling pathway he had too much either, I don't think there is much of a way around it though. I thing I could get the fans closer to the part but I am not sure that's going to be worth the effort. I will continue modeling the toolhead on tommorow's journal as the day has turned (its 12:26 am)
+
+End product after my work today:
+
+<img width="1308" height="1449" alt="{4E3ACFCD-5ABA-4297-B020-54F41C5E9826}" src="https://github.com/user-attachments/assets/94e43737-79d4-4033-89c9-fd6548879ce0" />
+
+
 ** Total time spent: 2.9 hour **
 
 # May 6: Toolhead and extruder design
