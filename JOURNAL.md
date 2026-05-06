@@ -126,5 +126,10 @@ I have finished the hotend. The hotend, hotend fan and partend fans are all in p
 <img width="1052" height="887" alt="{7AF3E5E9-74E1-42BC-870A-3A904D228944}" src="https://github.com/user-attachments/assets/ee5ddb64-9c42-4c8b-8f6e-09540cee0f86" />
 <img width="1139" height="836" alt="{77B06999-F015-47A3-AB30-F8F281E082A3}" src="https://github.com/user-attachments/assets/346090db-95ab-46cc-944f-754912a62abf" />
 
+Hmmm.... thats not good:
+
+<img width="925" height="812" alt="{6E1B2B8B-ACCA-4A2B-84D9-DF498F38FF39}" src="https://github.com/user-attachments/assets/eb13a1f2-bbe7-44e7-a974-5da83710cfad" />
+
+I'll do the same thing that I did to fix the other gantry rails, the rail will be moved to the bottom and I will have some components go up to attack to the belt system. When doing this, I will take some of that vertical space and move the fans up. I need to stop making assumptions on height, as this just keeps happening. The aluminum extrusion will touch the build plate before the nozzle of the hotend at the moment.
 
 ** Total time spent: 2.1 hour **
