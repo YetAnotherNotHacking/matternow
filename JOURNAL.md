@@ -120,4 +120,11 @@ https://store.dremc.com.au/en-us/products/4010-axial-fan-24v-by-dremc?variant=43
 the intention is for the 10 mm fans to stick out a bit, they will go in the 5 mm cavities on each side. the hotend will of course go in the middle and be fixed to the currently extruded part (the top of the sketch there). the air will enter, and then be pushed down. I may make a bit of a better guide system for the air, as its just relying on the pressure to leave how I want it to. I am actually quite happy with this design, and am excited to work on it more in the morning. It's 1 AM and I have tests tommorow so that is going to be it for today.
 Here is an image of the sketch of the toolhead I have for now.
 
-** Total time spent: 1.0 hour **
+I have finished the hotend. The hotend, hotend fan and partend fans are all in place. I plan to have the wires route along the outside of the hotend, while it isn't professional, this hotend likely is not close to the final product. This is to model what it will look like. I will look into making it more rigid, that is what I will work on next.
+
+<img width="1086" height="751" alt="{DB21C3F2-70F5-4B3E-9346-0264120B8BAD}" src="https://github.com/user-attachments/assets/e92c80c5-c999-4c19-9617-da6130f600a9" />
+<img width="1052" height="887" alt="{7AF3E5E9-74E1-42BC-870A-3A904D228944}" src="https://github.com/user-attachments/assets/ee5ddb64-9c42-4c8b-8f6e-09540cee0f86" />
+<img width="1139" height="836" alt="{77B06999-F015-47A3-AB30-F8F281E082A3}" src="https://github.com/user-attachments/assets/346090db-95ab-46cc-944f-754912a62abf" />
+
+
+** Total time spent: 2.1 hour **
