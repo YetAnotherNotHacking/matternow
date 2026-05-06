@@ -94,4 +94,11 @@ I did end up finding a step file for it, and I have been drafting the layout for
 
 I do also have some concerns about the scale of the printer. I know 420x420 is a huge build area, but after putting it on an a tape measure and putting a scale to the project I realize I might have made a little bit of a mistake. I think it will be fine, it will be better for the end goal of being able to manufacter FRC parts better, and the aluminum is free and the rails at this size are still cheap ish, but I def might want to watch my scale more in the future.
 
+I am looking at my freind's mounting methods for a similar nozzle (apparently it wasnt a rapido, he said it was when it isn't that in the cad)
+
+<img width="453" height="744" alt="{60ABA0D2-6653-4DD3-BC15-7946235EDC65}" src="https://github.com/user-attachments/assets/2ac62318-630a-41b0-96b8-cf09f7daad47" />
+<img width="629" height="1083" alt="{AD3DCA24-75A7-4650-A810-924D56F5146D}" src="https://github.com/user-attachments/assets/e9b2127f-1460-427a-a503-44abf3e69097" />
+<img width="923" height="1194" alt="{523A57BB-9B8D-466D-A3CF-094B46F8AD64}" src="https://github.com/user-attachments/assets/74ce4332-2967-458e-b751-46ae7c58dd08" />
+
+I am going to attempt to do the same thing that he did here, I like how the hotend works. I don't want to copy the switchable head system he has, as I don't have a real need. I can swap it out still but I don't need a quick swap system. I believe he did this because he prints TPU a lot for our belts on our robot. I don't really like the cooling pathway he had too much either, I don't think there is much of a way around it though. I thing I could get the fans closer to the part but I am not sure that's going to be worth the effort. I will continue modeling the toolhead on tommorow's journal as the day has turned (its 12:26 am)
 ** Total time spent: 2.6 hour **
