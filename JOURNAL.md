@@ -86,4 +86,12 @@ I now have these tabs going up over the extrusion, and I will be able to mount t
 
 I have finished modeling in the pulleys and how they will mount to the secondary linear rails on the gantry to the overall model. All thats left for the rest of this gantry is the hotend and how the belts attach to it. I already know that I am going to be using a remotely driven hotend to make the print head as light as possible. I am now doing some research to figure out what the best hotend and extrusion setup is for this kind of printer.
 
+After quite a bit of research, I ended up choosing the Phaetus Rapido 2 UHF (which happens to be the same one in my friend's design). I assumed since he made his about 3 years ago that it wouldn't be the best and that it would be outdated, however, with the specs it has and the long melting zone I really can't find anything better than it. It is a little hefty in price, but, its hefty in specs too.
+
+<img width="956" height="1312" alt="{449CA87A-A0C8-4148-A5F5-FC44C8D371F8}" src="https://github.com/user-attachments/assets/8e744e33-d7f4-4817-a754-afe87d9c7b68" />
+
+I did end up finding a step file for it, and I have been drafting the layout for the toolhead. I will post an image once I get stuff actually layed out better.
+
+I do also have some concerns about the scale of the printer. I know 420x420 is a huge build area, but after putting it on an a tape measure and putting a scale to the project I realize I might have made a little bit of a mistake. I think it will be fine, it will be better for the end goal of being able to manufacter FRC parts better, and the aluminum is free and the rails at this size are still cheap ish, but I def might want to watch my scale more in the future.
+
 ** Total time spent: 1.9 hour **
