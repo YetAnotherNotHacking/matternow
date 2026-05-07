@@ -142,5 +142,9 @@ I spent a lot more time and have redone the bottom half of the extruder. I am me
 
 <img width="430" height="472" alt="{623EB091-F17E-469F-B5CE-A22039EF64E5}" src="https://github.com/user-attachments/assets/09725f19-f4cd-4f95-a795-6c9d22519f30" />
 
+I realize that still no longer solves the problem.
+
+<img width="699" height="641" alt="{8DCF8C42-E057-4128-B6A3-EE8720489DBB}" src="https://github.com/user-attachments/assets/4ff5527c-702f-4e90-9483-9abe1abd7675" />
+im now shrinking it down further and mounting the hotend almost right up against the linear carriage. This is inspired from my friends design I took screenshots of the cross sections of above. I am using those for refferse on just roughly how this went together, and I intend to use similar blower fans like in his for my partend as well. I realize this part is more complex than I had initially though it to be.
 
 ** Total time spent: 3.4 hour **
