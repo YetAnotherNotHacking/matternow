@@ -166,4 +166,8 @@ So instead of blowers I decided to go back to using the fan I planned on using i
 <img width="457" height="642" alt="{0F7E1324-0145-40FD-A2A4-5C65CFC43530}" src="https://github.com/user-attachments/assets/b54abf82-d15f-4b28-85a3-9f3de8f8dd83" />
 
 I am going to add this issue to the main assembly and see if there are any glaring issues again, if not, I will get the belt connection points put into it. Part of the motivation for putting the fans up so high is that is around where the belts are going to have to connect, so having stuff there makes it like more effecient or something idk.
-** Total time spent: 4.9 hour **
+
+<img width="569" height="678" alt="{F3266182-F30E-4C9E-BC8D-DC9F6FF7466D}" src="https://github.com/user-attachments/assets/c4b806d0-6b4e-4b2d-9390-9a73a745f53d" />
+It looks pretty good IMO! I will extrude the top bit up enough that its level with the other brackets, and then attach tbe belt to posts. I plan to have it rap around, where the belt forms a u and the peg goes in the cup thing of the u. It will be secured with a zip tie on the other side, its similar to what you might see on another chinese printer (very high quality yes yes)
+
+** Total time spent: 5.0 hour **
