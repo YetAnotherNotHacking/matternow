@@ -138,5 +138,9 @@ That linear rail will now be mounted like this
 
 <img width="1483" height="493" alt="{1907040D-1474-4672-A3ED-D421A4124846}" src="https://github.com/user-attachments/assets/b3ef674f-42c6-4187-b2c9-bcd8890acbc7" />
 
+I spent a lot more time and have redone the bottom half of the extruder. I am measuring the top end's distance from the pullies to see how far I am going to have to make them reach now, I  have a feeling it will still be kind of far. I am worried about how much play this toolhead will have, with how far up it will be pulled on I think I am likely to run into issues with it twisting. I may raise the gantry it's mounted on in order to make it pull on the toolhead closer to the rail if nessecary (it is nessecary, im putting it off)
 
-** Total time spent: 2.1 hour **
+<img width="430" height="472" alt="{623EB091-F17E-469F-B5CE-A22039EF64E5}" src="https://github.com/user-attachments/assets/09725f19-f4cd-4f95-a795-6c9d22519f30" />
+
+
+** Total time spent: 3.4 hour **
