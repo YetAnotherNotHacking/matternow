@@ -145,6 +145,17 @@ I spent a lot more time and have redone the bottom half of the extruder. I am me
 I realize that still no longer solves the problem.
 
 <img width="699" height="641" alt="{8DCF8C42-E057-4128-B6A3-EE8720489DBB}" src="https://github.com/user-attachments/assets/4ff5527c-702f-4e90-9483-9abe1abd7675" />
+
 im now shrinking it down further and mounting the hotend almost right up against the linear carriage. This is inspired from my friends design I took screenshots of the cross sections of above. I am using those for refferse on just roughly how this went together, and I intend to use similar blower fans like in his for my partend as well. I realize this part is more complex than I had initially though it to be.
 
+<img width="415" height="433" alt="{50569726-E467-4705-823E-9B9EDCA2F598}" src="https://github.com/user-attachments/assets/2b537d3c-22ec-4033-b189-b02e442342c0" />
+<img width="439" height="499" alt="{521DA965-AF46-43D5-B6AB-68D765141BFE}" src="https://github.com/user-attachments/assets/76ad1bcb-02b1-4b55-b09a-3413ebc79b91" />
+<img width="440" height="466" alt="{72E1FAAE-737B-4AAE-854E-A01D3718C7CA}" src="https://github.com/user-attachments/assets/96e4df4a-6f45-4b77-a681-078888352d8e" />
+
+
+It took some really annoying redoing of work, but it's finally there. I am really really happy with this design, I think 3 iterations made me land on something pretty good. I have a 25 mm cooling fan on the hotend, and will be integrating some blower fans at the top for the partend fan.
+
+I used this for the step file: https://www.mcmaster.com/1939K18/
+I will actually source them from: https://www.aliexpress.us/item/3256808589894042.html?utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008776208794%7C_p_origin_prod%3A
+The blowers I intend to use are: https://www.filastruder.com/products/delta-bfb0524hh-blower-fan?variant=39503824650311&_gsid=G6XowAwBG8xu
 ** Total time spent: 3.4 hour **
