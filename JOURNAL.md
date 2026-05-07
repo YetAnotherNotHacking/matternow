@@ -158,4 +158,4 @@ It took some really annoying redoing of work, but it's finally there. I am reall
 I used this for the step file: https://www.mcmaster.com/1939K18/
 I will actually source them from: https://www.aliexpress.us/item/3256808589894042.html?utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008776208794%7C_p_origin_prod%3A
 The blowers I intend to use are: https://www.filastruder.com/products/delta-bfb0524hh-blower-fan?variant=39503824650311&_gsid=G6XowAwBG8xu
-** Total time spent: 3.4 hour **
+** Total time spent: 4.4 hour **
