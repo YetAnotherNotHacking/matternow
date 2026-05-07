@@ -170,4 +170,14 @@ I am going to add this issue to the main assembly and see if there are any glari
 <img width="569" height="678" alt="{F3266182-F30E-4C9E-BC8D-DC9F6FF7466D}" src="https://github.com/user-attachments/assets/c4b806d0-6b4e-4b2d-9390-9a73a745f53d" />
 It looks pretty good IMO! I will extrude the top bit up enough that its level with the other brackets, and then attach tbe belt to posts. I plan to have it rap around, where the belt forms a u and the peg goes in the cup thing of the u. It will be secured with a zip tie on the other side, its similar to what you might see on another chinese printer (very high quality yes yes)
 
+<img width="287" height="425" alt="{F16ED97C-595A-4783-AB7B-A05423CBF89D}" src="https://github.com/user-attachments/assets/64a49b89-5c82-4567-b2ed-23722a57f611" />
+
+I am going to have to move those pullies over for this work work, but that is the defenition of a tommorow task. I am too tired. I do want to write out a quick parts list for the aluminum to ask if I am able to use it tommorow during a robotics meeting:
+
+```
+1 1/2 Inch 2 foot extrusion: "8x"
+1 1/2 Inch 3 foot extrusion: "4x"
+1 1/2 Inch 33 inch (length) extrusion: "3x"
+```
+
 ** Total time spent: 5.0 hour **
