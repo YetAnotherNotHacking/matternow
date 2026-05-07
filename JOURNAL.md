@@ -158,4 +158,12 @@ It took some really annoying redoing of work, but it's finally there. I am reall
 I used this for the step file: https://www.mcmaster.com/1939K18/
 I will actually source them from: https://www.aliexpress.us/item/3256808589894042.html?utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008776208794%7C_p_origin_prod%3A
 The blowers I intend to use are: https://www.filastruder.com/products/delta-bfb0524hh-blower-fan?variant=39503824650311&_gsid=G6XowAwBG8xu
-** Total time spent: 4.4 hour **
+
+So instead of blowers I decided to go back to using the fan I planned on using in the old design, I realized it's just the easiest at this point.
+
+<img width="393" height="561" alt="{68D64B8D-79FE-45B3-BF9B-68E64C0013C5}" src="https://github.com/user-attachments/assets/5edfa68c-e737-4191-98e4-dce12cf8ce27" />
+<img width="451" height="554" alt="{EEA8DCFA-E45A-4F62-8CAD-AE36B54E9BE8}" src="https://github.com/user-attachments/assets/9a2d25b0-8a2e-4611-9550-49f6875a1e9d" />
+<img width="457" height="642" alt="{0F7E1324-0145-40FD-A2A4-5C65CFC43530}" src="https://github.com/user-attachments/assets/b54abf82-d15f-4b28-85a3-9f3de8f8dd83" />
+
+I am going to add this issue to the main assembly and see if there are any glaring issues again, if not, I will get the belt connection points put into it. Part of the motivation for putting the fans up so high is that is around where the belts are going to have to connect, so having stuff there makes it like more effecient or something idk.
+** Total time spent: 4.9 hour **
