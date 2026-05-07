@@ -174,10 +174,16 @@ It looks pretty good IMO! I will extrude the top bit up enough that its level wi
 
 I am going to have to move those pullies over for this work work, but that is the defenition of a tommorow task. I am too tired. I do want to write out a quick parts list for the aluminum to ask if I am able to use it tommorow during a robotics meeting:
 
-```
-1 1/2 Inch 2 foot extrusion: "8x"
-1 1/2 Inch 3 foot extrusion: "4x"
-1 1/2 Inch 33 inch (length) extrusion: "3x"
-```
+| Extrusion            | Quantity |
+| -------------------- | -------: |
+| 1 1/2 Inch × 2 foot  |        8 |
+| 1 1/2 Inch × 3 foot  |        4 |
+| 1 1/2 Inch × 33 inch |        3 |
 
-** Total time spent: 5.0 hour **
+As usual, here is the finished product after my work today:
+
+<img width="646" height="759" alt="{A5736B52-B69C-4669-AEE0-C61068FBB57E}" src="https://github.com/user-attachments/assets/e2bd4db7-fdcf-452c-aefe-4bbc65e084cc" />
+
+
+
+** Total time spent: 5.5 hour **
