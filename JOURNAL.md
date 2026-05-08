@@ -184,6 +184,20 @@ As usual, here is the finished product after my work today:
 
 <img width="646" height="759" alt="{A5736B52-B69C-4669-AEE0-C61068FBB57E}" src="https://github.com/user-attachments/assets/e2bd4db7-fdcf-452c-aefe-4bbc65e084cc" />
 
-
-
 ** Total time spent: 5.5 hour **
+
+# May 7: Misc. design discussion and figuring out how I am going to fix the belts.
+Today I spent a lot of time talking with people that are a lot smatter and more experienced, being both of the main adult mentors at our robotics shop. One of the mentors pointed out the printer that he had at our shop, an AnyCubic Cobra K2 Max already had a print bed almost exactly the size of what I need, my gantry is 420x420 in motion and that printer has a 430x430 bed. I am going to take advantage of this and have a heated bed in the project by using a replacement bed for the printer.
+
+I also talked to the main mentor of the club, and found out a lot of good things. He has an idea for how I can get the toolhead to move with the weird belt layout, and it involves putting a plate between the carriage and the toolhead that reaches up. This would be made out of a strong and light material (not pla, most likely metal) and connect up to the belts. He also pointed out an issue with my belts, being how small 6 mm gt2 is. He helped me understand in context looking at other printers, and explaining why they use the belts that they do, and that with a gentry as chunky as mine that I am most likely not going to be able to move it fast (most likely at all) with the motors and belt that I have on there. He also pointed out the issue with using a 1.5 inch extrusion on the secondary gantry, and I realize he is very right. I am going to look into using a smaller lighter gantry, I somehow didn't concider the weight of that gantry when trying to figure out how to make the toolhead move as fast as possible. So essentially, I am going to have to use bigger (wider, probably 9mm) belts, make that part of the gantry a lot lighter, and implement some sort of plate to help the toolhead be at the correct height for the rest of the belt path.
+
+I also did some work to start designing the lift for the build plate. I am taking inspiration from Practically Printed's earlier designs, as they seem be pretty agile and not too complex for the scale I am trying to implement them at.
+
+For this, I am using a second version of the t bracket base from yesterday/the day before I can't remember but with a place to mount a stepper motor. The plan is to have a rail and screw with this as well, with the load being supported and lifted by the crew and the rail keeping it in line. I might have to use some custom alumimum or something to get it to attach to this AnyCubic bed, but I will be crossing that bed when I come to it.
+
+<img width="619" height="574" alt="{3FDA30AE-A30D-465E-A3F5-995E072BBF91}" src="https://github.com/user-attachments/assets/c0e5e04a-4d96-4dd2-994b-677823c3e83c" />
+
+
+The time does include a little bit of the time I spent talking to the mentors and the time I spent taking notes on how I would have to change the design. I did spend a lot of time trying to find couplers and z scews and was not able to find many of them.
+
+** Total time: 1 hour **
