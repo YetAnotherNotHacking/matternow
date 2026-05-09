@@ -213,5 +213,15 @@ At this angle, you are able to see that the motor for the z motion goes past the
 
 When I attempted to edit it, the entire timeline broke, so I just redid it. Above is what the new design looks like.
 
+I have finished a initial design for the linear actuator
+
+<img width="357" height="559" alt="{A5C22610-848F-4D58-8FF0-C27639F19C79}" src="https://github.com/user-attachments/assets/6ff7114c-7c1c-4fdb-88e3-997377f62aa8" />
+
+<img width="512" height="452" alt="{1DCD411F-9398-4E8C-A637-88305EDCFB9D}" src="https://github.com/user-attachments/assets/d8c96a0a-f006-41c4-b4c5-c869ab8b505f" />
+
+It uses Golbilda lead screws (def not biased from ftc, they are actually cheap)
+
+I am going to go to sleep after I put these into the main file, as I need it for Jackpot tommorow :D
+
 ** Total time: 0.6 hours **
 
