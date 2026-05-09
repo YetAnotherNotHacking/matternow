@@ -200,7 +200,7 @@ For this, I am using a second version of the t bracket base from yesterday/the d
 
 The time does include a little bit of the time I spent talking to the mentors and the time I spent taking notes on how I would have to change the design. I did spend a lot of time trying to find couplers and z scews and was not able to find many of them.
 
-** Total time: 1 hour **
+** Total time spent: 1 hour **
 
 # May 8: Working on z actuator for the bed
 I am currently in LV for Jackpot, and spent a lot of time exploring the strip today rather than working on this project. I did get a little bit of work done waiting in the airport but I couldn't plug in a mouse and my trackpad was irritating me. 
@@ -239,5 +239,5 @@ I am super happy with this progress today.
 I do need to look into how I am going to drive this many steppers, I might need to look into a higher calibre board like a bigtree ocotopus/kracken whatever they are called that can pwm them all.
 
 
-** Total time: 2.0 hour **
+** Total time spent: 2.0 hour **
 
