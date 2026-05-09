@@ -11,7 +11,7 @@ Today I was really just figuring out what it is I wanted to do. I decided on a c
 
 <img width="500" height="auto" alt="{705EB736-B809-407A-B1C5-5BE22C0F116D}" src="https://github.com/user-attachments/assets/02b51bae-2e2a-4365-bd8b-697801a8f831" />
 
-** Total time spent: 1.3 hours**
+** Total time spent: 1.3 hour**
 
 ## May 4: Working on the gantry
 
@@ -70,7 +70,7 @@ Overall product at the end of the day:
 <img width="1081" height="1240" alt="{FDB88FC5-DADD-416F-A976-9FD24660C74C}" src="https://github.com/user-attachments/assets/c92e7369-be11-4069-a437-5a7822cafdcf" />
 
 
-** Total time spent: 7.7 hours**
+** Total time spent: 7.7 hour**
 
 # May 5: Working more on gantry and starting hotend ideas
 
@@ -239,5 +239,5 @@ I am super happy with this progress today.
 I do need to look into how I am going to drive this many steppers, I might need to look into a higher calibre board like a bigtree ocotopus/kracken whatever they are called that can pwm them all.
 
 
-** Total time: 2.0 hours **
+** Total time: 2.0 hour **
 
