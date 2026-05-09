@@ -223,5 +223,14 @@ It uses Golbilda lead screws (def not biased from ftc, they are actually cheap)
 
 I am going to go to sleep after I put these into the main file, as I need it for Jackpot tommorow :D
 
+It just barely doesnt hit the bar on the limit of the movement, I am so proud of that (leave out the fact that was an accident)
+
+<img width="569" height="448" alt="{EA1B861D-E8AA-4BDD-AE45-8FA78D76FC30}" src="https://github.com/user-attachments/assets/617ed435-0cd2-4323-966c-9f7c5dbf9cc1" />
+<img width="390" height="738" alt="{FEBBFD93-C846-4BAB-A354-41D80EFA0F4D}" src="https://github.com/user-attachments/assets/c45d9606-42bb-4405-8b85-1b0a6c3a101f" />
+
+This is what I am going to use to know how far I need to have the bed above the bracket, it shouldn't be too far.
+<img width="538" height="488" alt="{9C9B85DF-9DA2-45DD-9A6A-AC777790285E}" src="https://github.com/user-attachments/assets/3ea27592-4031-43e7-8a51-708ab3dd416b" />
+
+
 ** Total time: 0.6 hours **
 
