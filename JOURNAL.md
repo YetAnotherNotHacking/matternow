@@ -231,6 +231,13 @@ It just barely doesnt hit the bar on the limit of the movement, I am so proud of
 This is what I am going to use to know how far I need to have the bed above the bracket, it shouldn't be too far.
 <img width="538" height="488" alt="{9C9B85DF-9DA2-45DD-9A6A-AC777790285E}" src="https://github.com/user-attachments/assets/3ea27592-4031-43e7-8a51-708ab3dd416b" />
 
+This is what it looks like overall with the new actuators.
+<img width="555" height="652" alt="{6A9C1D85-639B-48D6-9C54-70D8F8C97025}" src="https://github.com/user-attachments/assets/53dba418-f1bc-40f5-b764-834e49edbb1c" />
 
-** Total time: 0.6 hours **
+I plan to possibly figure out how I am going to get the platform for the bed setup tommorow after Jackpot time, though, high chance I am exhausted and don't.
+I am super happy with this progress today.
+I do need to look into how I am going to drive this many steppers, I might need to look into a higher calibre board like a bigtree ocotopus/kracken whatever they are called that can pwm them all.
+
+
+** Total time: 2.0 hours **
 
