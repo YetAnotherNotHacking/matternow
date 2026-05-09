@@ -201,3 +201,17 @@ For this, I am using a second version of the t bracket base from yesterday/the d
 The time does include a little bit of the time I spent talking to the mentors and the time I spent taking notes on how I would have to change the design. I did spend a lot of time trying to find couplers and z scews and was not able to find many of them.
 
 ** Total time: 1 hour **
+
+# May 8: Working on z actuator for the bed
+I am currently in LV for Jackpot, and spent a lot of time exploring the strip today rather than working on this project. I did get a little bit of work done waiting in the airport but I couldn't plug in a mouse and my trackpad was irritating me. 
+
+<img width="400" height="369" alt="{8543E6F4-3E8F-4661-BC3E-CBB0D7D71536}" src="https://github.com/user-attachments/assets/27c31de1-c211-4f0f-91a2-5625af1828e8" />
+
+At this angle, you are able to see that the motor for the z motion goes past the bottom of the printer. This will cause it not to sit flat, so I am going to simply move it up a little further.
+
+<img width="436" height="488" alt="{86F218C1-7409-4582-B6DD-6A6F59D75389}" src="https://github.com/user-attachments/assets/7f1a6a42-9b7c-4c7c-af05-7eb592c3753c" />
+
+When I attempted to edit it, the entire timeline broke, so I just redid it. Above is what the new design looks like.
+
+** Total time: 0.6 hours **
+
