@@ -241,3 +241,15 @@ I do need to look into how I am going to drive this many steppers, I might need 
 
 ** Total time spent: 2.0 hour **
 
+# May 9: Sourcing parts and figuring out how I am mounting the bed
+
+https://www.3dprima.com/en/spare-parts-accessories/manufacturer/anycubic/anycubic-kobra-2-max-hotbed_29738_11865
+https://www.amazon.com/430x430mm-Textured-Flexible-Magnetic-Anycubic/dp/B0FGD9PJFC
+
+Above are the two things I am going to need for the bed, I am going to model the bed at a height of about 6.5 (which might be a little thicker than it ends up being, who knows.
+
+<img width="724" height="544" alt="{0C310ADB-D29D-48AE-A146-C5924868BA68}" src="https://github.com/user-attachments/assets/cd7c7d2f-987d-4893-8e58-7e4b0ab1083f" />
+
+Above you can see the planning for how the brackets are going to interact with the bed, and what I will need to do for that. Thats mainly figuring out how far they need to reach out to hold onto the bed, as well as just looking at what the spacing of them is going to look like. They are actually perfect in position to hold the bed how it's needed, I think I will see decent performance in moving them with this setyp.
+
+** Total time spent: 1.0 hour **
