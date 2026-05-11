@@ -253,3 +253,25 @@ Above are the two things I am going to need for the bed, I am going to model the
 Above you can see the planning for how the brackets are going to interact with the bed, and what I will need to do for that. Thats mainly figuring out how far they need to reach out to hold onto the bed, as well as just looking at what the spacing of them is going to look like. They are actually perfect in position to hold the bed how it's needed, I think I will see decent performance in moving them with this setyp.
 
 ** Total time spent: 1.0 hour **
+
+
+# May 10: Bed layout concepts
+Just before going to Jackpot today I was in a starbucks working on the design for the bed a bit more.
+
+<img width="583" height="443" alt="{12F559E2-15E4-4586-876D-008D09DCF303}" src="https://github.com/user-attachments/assets/7ba04d88-2c94-43c5-aaf2-22cdcd94b377" />
+
+The above sketch is me figuring out where the attachements need to be to be even and still attach to the rails on the printer.
+
+<img width="159" height="98" alt="{27290C3E-6AEA-4DC8-A99D-E012B2A870B2}" src="https://github.com/user-attachments/assets/663e4e64-e2f4-4269-a882-bcb0b15d9e4d" />
+
+I then figured out what the height from the maximum extension of the linear actuator needs to be so that it will reach the nozzle, I went safe and have it clipping in a little bit, while this sacrifices some ouf the vertical printing area, it's already huge and it's only like 5 mm.
+
+<img width="572" height="244" alt="{3CD4E8B2-97A2-4952-B592-143B63139B69}" src="https://github.com/user-attachments/assets/82e13572-23ea-4e33-a152-2d5307b409b6" />
+
+This is what the overall assembly (from the layout image) looks like in context with the rest of the printer.
+
+<img width="458" height="549" alt="{03FABE8E-FA56-4221-8F29-2B847FC51A55}" src="https://github.com/user-attachments/assets/efe556e2-d599-4865-9ed3-717b09d3322a" />
+
+Here is the bed at miminum extension, modeling how tall the parts that my team will be able to print with it are.
+
+** Total time spent: 0.4 hour **
