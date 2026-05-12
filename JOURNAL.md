@@ -275,3 +275,27 @@ This is what the overall assembly (from the layout image) looks like in context 
 Here is the bed at miminum extension, modeling how tall the parts that my team will be able to print with it are.
 
 ** Total time spent: 0.4 hour **
+
+# May 11: Working more on bed attachment and looking at bowden extruders
+<img width="749" height="449" alt="{56F23DC7-AD32-4323-829A-DC8E3EBAE1D0}" src="https://github.com/user-attachments/assets/107fc328-5f97-4557-a81d-e41e447c4f40" />
+As you can see above, I mostly figured out how the bed is going to be held up. This took about 20 minutes of modeling.
+
+I also looked into how I am going to control the printer, and I landed on the following
+
+Main control board:
+https://biqu.equipment/products/bigtreetech-octopus-pro-v1-0-chip-f446?variant=40144817979490
+
+Display:
+https://biqu.equipment/collections/lcd-screen/products/bigtreetech-tft35-spi-v2-1-touchscreen-io2can-module
+
+I plan to also have my Pi 5 running Octoprint so that I am able to watch my prints. I do need to get it back from my team. I haven't seen it since our competition, it's missing from it's spot in the tool cart.
+
+Here is what the backets look like in the design
+
+<img width="642" height="303" alt="{62DFF75C-3CB8-40FC-BF9F-654C324213D6}" src="https://github.com/user-attachments/assets/c496a1fc-606b-4ba2-9d5c-c560a323a78a" />
+
+Since I haven't put an overall image here in a while, this is the overall progress as of right now
+
+<img width="556" height="650" alt="{22CC914C-0D69-4659-AAB3-8AC09E9A0DB5}" src="https://github.com/user-attachments/assets/520543df-5481-4ae5-aec9-bec866f3bf18" />
+
+** Total time spent: 0.9 hours **
