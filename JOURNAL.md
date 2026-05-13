@@ -299,3 +299,14 @@ Since I haven't put an overall image here in a while, this is the overall progre
 <img width="556" height="650" alt="{22CC914C-0D69-4659-AAB3-8AC09E9A0DB5}" src="https://github.com/user-attachments/assets/520543df-5481-4ae5-aec9-bec866f3bf18" />
 
 ** Total time spent: 0.9 hours **
+
+# May 12: Test fit of corner brackets
+
+Today I didn't do too much, only printed out a corner (left pulley corner) on my school's bambu printers, and tested the fit of the 1.5 inch extrusion, It was extremely good, but when I pulled at just the right angle as hard as I could I was able to get some layers to seperate. I think it will most likely be fine for the load that this printer is experiencing. I didn't really do much engineering today, so I will log a very tiny amount of time. I did also find step files for the control board and do some research about the power supply to use. I got the step of the BigTreeTech Octopus Pro or whatever it was, and I decide on a 450/500 watt psu for all of the things that the printer has on it. I will need to find a step file for the power supply, though, that shouldn't be too hard. I do intend to use the power supply I have from my cr20 pro to power the control systems.
+
+<img width="3072" height="4080" alt="PXL_20260513_052912780" src="https://github.com/user-attachments/assets/79aad4ce-16d1-4da1-9d1f-d6084d809dbb" />
+<img width="3072" height="4080" alt="PXL_20260513_052918709" src="https://github.com/user-attachments/assets/1afa8e8f-d3d8-4061-bbfd-d217e6161423" />
+
+These are the images of the part I printed.
+
+** Total time spent: 0.1 hour **
