@@ -282,7 +282,7 @@ As you can see above, I mostly figured out how the bed is going to be held up. T
 
 I also looked into how I am going to control the printer, and I landed on the following
 
-Main control board:
+Main control board
 https://biqu.equipment/products/bigtreetech-octopus-pro-v1-0-chip-f446?variant=40144817979490
 
 Display:
@@ -292,7 +292,7 @@ I plan to also have my Pi 5 running Octoprint so that I am able to watch my prin
 
 Here is what the backets look like in the design
 
-<img width="642" height="303" alt="{62DFF75C-3CB8-40FC-BF9F-654C324213D6}" src="https://github.com/user-attachments/assets/c496a1fc-606b-4ba2-9d5c-c560a323a78a" />
+<img width="642" height="303" alt="{62DFF75C-3CB8-40FC-BF9F-654C324213D6}" src="https://github.com/user-attachments/assets/c496a1f606b-4ba2-9d5c-c560a323a78a" />
 
 Since I haven't put an overall image here in a while, this is the overall progress as of right now
 
@@ -310,3 +310,15 @@ Today I didn't do too much, only printed out a corner (left pulley corner) on my
 These are the images of the part I printed.
 
 ** Total time spent: 0.1 hour **
+
+# May 13: Working more on extruder idea more
+
+Today I realized that a bowden extruder is not likely to work for my setuo, having to push filament through 1m of capricorn at 1m is going to be far too high friction for anything fast. For this reason, I am switching to a direct drive extruder. I found a lightweight albiet not too cheap one
+
+I integrated it to go over the rail component over the back, I am working on adding back a place to put the fans but I ran out of time.
+
+The extruder I plan to use is a Bondtech LGX Lite eXtruder V2 (https://www.matterhackers.com/store/l/bondtech-lgx-lite-extruder-v2/sk/MTXR82TX).
+
+<img width="359" height="367" alt="{F055E543-888F-4A32-91CA-73E63CBC21E1}" src="https://github.com/user-attachments/assets/641223a4-06d9-48cc-873c-ecc9b6ea7a80" />
+
+** Total time spent: 1 hour **
