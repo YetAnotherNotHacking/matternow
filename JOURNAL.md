@@ -322,3 +322,12 @@ The extruder I plan to use is a Bondtech LGX Lite eXtruder V2 (https://www.matte
 <img width="359" height="367" alt="{F055E543-888F-4A32-91CA-73E63CBC21E1}" src="https://github.com/user-attachments/assets/641223a4-06d9-48cc-873c-ecc9b6ea7a80" />
 
 ** Total time spent: 1 hour **
+
+# May 14: mounting concepts
+I hardly did much today, I kept getting pulled away for things.
+
+<img width="522" height="638" alt="{F3E50A7C-378F-40AD-8A6B-385EF82CA71A}" src="https://github.com/user-attachments/assets/9cbc5fde-1d1e-48f8-ac52-8ae963105798" />
+
+I got this extruded up, then struggled to figure out how I was gonna attach to the extruder package.
+
+** Total time spent: 0.2 hour **
