@@ -323,7 +323,7 @@ The extruder I plan to use is a Bondtech LGX Lite eXtruder V2 (https://www.matte
 
 ** Total time spent: 1 hour **
 
-# May 14: mounting concepts
+## May 14: mounting concepts
 I hardly did much today, I kept getting pulled away for things.
 
 <img width="522" height="638" alt="{F3E50A7C-378F-40AD-8A6B-385EF82CA71A}" src="https://github.com/user-attachments/assets/9cbc5fde-1d1e-48f8-ac52-8ae963105798" />
@@ -331,3 +331,23 @@ I hardly did much today, I kept getting pulled away for things.
 I got this extruded up, then struggled to figure out how I was gonna attach to the extruder package.
 
 ** Total time spent: 0.2 hour **
+
+## May 15: moving to rail based system
+
+I wanted a break from that hotend, so I moved to fixing the gantry issue I am gonna have to fix at some point anyway
+
+<img width="454" height="430" alt="{5605D6AB-22CF-41CC-B229-098A19F9D449}" src="https://github.com/user-attachments/assets/ddfb22b4-f9e5-4291-a6b9-7c1c74244142" />
+
+I took the advice of the mechanical lead from the frc team I mentioned a while ago and moved the rails to the sides of the extrusion on the internal, put the belts inside so I could properly attach the pulleys, and switched to rails instead of a giant extrusion like my mentor pointed out. 
+
+<img width="697" height="362" alt="{EE81AA75-0349-46B3-B9EB-D432DDA955E7}" src="https://github.com/user-attachments/assets/3251b2c7-8b39-4469-b603-27b4e6a47db5" />
+
+Figuring out how to put the pulleys in there, as well as getting them to be the right height to connect with the rest of the belt network have been a real headache
+
+<img width="416" height="482" alt="{4A1491F1-1C3B-484A-ABCE-E09492D3A97F}" src="https://github.com/user-attachments/assets/8b217a48-f355-47b7-ab03-c4b0544257c2" />
+
+You can see the differing heights here, the lower one is at the correct (ish) height, the other one I got stuck trying to figure out and ended up taking a break from since I just didn't have the motivation today. I will come back at this tommorow. I litteraly cleaned my room instead of figuring out this problem, I really didn't want to figure it out :sob:
+
+The time today is a low estimate, I am trying to guess and remove the amount of time that was spent blankly staring at my screen thinking about how to design this. I probably just need to look at other designs e.g. a voron machine or something for tommorow so I don't stay stuck in this place.
+
+** Total time spent: 1.8 hours **
