@@ -350,4 +350,10 @@ You can see the differing heights here, the lower one is at the correct (ish) he
 
 The time today is a low estimate, I am trying to guess and remove the amount of time that was spent blankly staring at my screen thinking about how to design this. I probably just need to look at other designs e.g. a voron machine or something for tommorow so I don't stay stuck in this place.
 
+I should note that I plan to mount do something like the image below
+
+<img width="762" height="643" alt="{ACD1C3AC-3033-4AA1-B56F-58F38F0E4B58}" src="https://github.com/user-attachments/assets/fa9886b9-4e27-43af-ae25-6da19798f76a" />
+
+this is just to set a rough expecation for how thix fixes the problems I saw before, and will not mean a redesign of that annoying aah toolhead.
+
 ** Total time spent: 1.8 hours **
