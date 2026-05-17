@@ -357,3 +357,17 @@ I should note that I plan to mount do something like the image below
 this is just to set a rough expecation for how thix fixes the problems I saw before, and will not mean a redesign of that annoying aah toolhead.
 
 ** Total time spent: 1.8 hours **
+
+# May 16: belt layout research
+
+I spent a lot of today just looking at other designs, I don't think this is real engineering time so I am going to enter it was 0.1 hours even though it was a good bit of time.
+
+Most printers have there bed a bit higher/mount it in a different way, and that allows them to do something like in this image where the belts are right there in with the part that the toolhead is sliding on. but with my design and how high up the belts are and the vertical limit of the bed, I am going to have to have them running over the frame and using that plate I sketched out yesterday to attach
+
+<img width="686" height="592" alt="2026-05-16_23-51" src="https://github.com/user-attachments/assets/a0c26419-0686-4e2d-be1a-48b5420babd6" />
+
+This design may be close to what I need, they have that second pole up pretty high and I could do the same thing. I think having those two prongs going out with the pulleys on roller things between them is the design that I am going to have to go for.
+
+<img width="706" height="676" alt="2026-05-16_23-55" src="https://github.com/user-attachments/assets/5f8b8f08-fe16-4e05-b831-e4a7dc864098" />
+
+** Total Time Spent: 0.1 hour **
